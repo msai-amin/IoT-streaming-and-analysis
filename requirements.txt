@@ -1,0 +1,22 @@
+# Data Generation and MQTT
+paho-mqtt==1.6.1
+numpy==1.23.5
+pandas==1.5.3
+
+# Kafka
+confluent-kafka==2.0.2
+
+# Stream Processing
+pyflink==1.16.1
+pyspark==3.3.2
+
+# Database Clients
+influxdb-client==1.36.1
+psycopg2-binary==2.9.5
+
+# Visualization
+plotly==5.13.1
+dash==2.9.3
+
+# Utilities
+python-dotenv==1.0.0 
